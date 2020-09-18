@@ -26,6 +26,11 @@ a:hover {
   color: #3b6978;
 }
 
-.Navigation{
+.Navigation .contact{
   display: inline-block;
+}
+
+.Navigation .blog{
+  display: inline-block;
+  margin-left: 20px;
 }
