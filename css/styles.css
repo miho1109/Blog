@@ -30,8 +30,13 @@ p{
   color: #84a9ac;
 }
 
+.Navigation .home{
+  display: inline-block;
+}
+
 .Navigation .contact{
   display: inline-block;
+  margin-left: 20px;
 }
 
 .Navigation .blog{
