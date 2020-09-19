@@ -10,7 +10,7 @@ hr{
 }
 
 h1{
-  color: #84a9ac;
+  color: #3b6978;
 }
 h3{
   color: #84a9ac;
@@ -24,6 +24,10 @@ a{
 a:hover {
 
   color: #3b6978;
+}
+
+p{
+  color: #84a9ac;
 }
 
 .Navigation .contact{
